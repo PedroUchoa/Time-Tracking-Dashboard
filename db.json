@@ -1,0 +1,82 @@
+{
+    "data":{
+        "daily": {
+            "work": {
+                "current": 5,
+                "previous": 7
+            },
+            "play": {
+                "current": 1,
+                "previous": 2
+            },
+            "study": {
+                "current": 0,
+                "previous": 1
+            },
+            "exercise": {
+                "current": 1,
+                "previous": 1
+            },
+            "social": {
+                "current": 1,
+                "previous": 3
+            },
+            "selfcare": {
+                "current": 0,
+                "previous": 1
+            }
+        },
+        "weekly": {
+            "work": {
+                "current": 32,
+                "previous": 36
+            },
+            "play": {
+                "current": 10,
+                "previous": 8
+            },
+            "study": {
+                "current": 4,
+                "previous": 7
+            },
+            "exercise": {
+                "current": 4,
+                "previous": 5
+            },
+            "social": {
+                "current": 5,
+                "previous": 10
+            },
+            "selfcare": {
+                "current": 2,
+                "previous": 2
+            }
+        },
+        "monthly": {
+            "work": {
+                "current": 103,
+                "previous": 128
+            },
+            "play": {
+                "current": 23,
+                "previous": 29
+            },
+            "study": {
+                "current": 13,
+                "previous": 19
+            },
+            "exercise": {
+                "current": 11,
+                "previous": 18
+            },
+            "social": {
+                "current": 21,
+                "previous": 23
+            },
+            "selfcare": {
+                "current": 7,
+                "previous": 11
+            }
+        }
+    }
+}

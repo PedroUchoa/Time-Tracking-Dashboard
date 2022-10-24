@@ -1,0 +1,97 @@
+
+
+.cards {
+    width: 31%;
+    min-height: 44%;
+    border-radius: 10px;
+}
+
+.cardsImage{
+    height: 20%;
+    overflow: hidden;
+}
+
+.cardsImage img{
+    width: 25%;
+    float: right;
+    margin-right: 20px;
+    margin-top: -3px;
+}
+
+.cardsContant{
+    min-height: 80.5%;
+    width: 100%;
+    background-color: var(--Darkblue);
+    border-radius: 10px;
+    z-index: 500;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardsContant:hover{
+    cursor: pointer;
+    background-color: var(--Desaturatedblue);
+}
+
+.typeContainer{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.typeContainer img:hover{
+    cursor: pointer;
+    filter: brightness(100);
+}
+
+.timeContainer{
+    min-height: 70%;
+    width: 100%;
+}
+
+.cardsContant h3{
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 5px;
+    margin-left: 30px;
+    color: #fff;
+}
+
+.cardsContant p{
+    padding-top: 10px;
+    padding-left:30px;
+    font-size: 12px;
+    color: var(--PaleBlue);
+}
+
+.card-orange {
+    background-color: var(--Lightred-work);
+}
+
+.card-blue {
+    background-color: var(--Softblue-play);
+
+}
+
+.card-red {
+    background-color: var(--Lightred-study);
+ 
+}
+
+.card-green {
+    background-color: var(--Limegreen-exercise);
+}
+
+.card-purple {
+    background-color: var(--Violet-social);
+}
+
+.card-yellow {
+    background-color: var(--Softorange-selfcare);
+}
